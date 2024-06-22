@@ -12,5 +12,6 @@ Step 3:
 Load the DataFrame to the CSV file named "Largest_economies.csv"
 
 Result:
+
 ![Alt text](image2.png)
 
